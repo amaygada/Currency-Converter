@@ -1,4 +1,4 @@
-# nutrition
+# Currency Converter
 
 A new Flutter application.
 
